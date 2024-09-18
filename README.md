@@ -1,6 +1,3 @@
-Here’s an updated, more user-friendly guide to installing Flutter on macOS with icons for better readability!
-
----
 
 ### 🚀 Step-by-Step Guide to Install Flutter on macOS
 
