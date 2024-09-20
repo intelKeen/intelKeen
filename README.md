@@ -21,7 +21,7 @@ You need Android Studio for developing Android apps. Download it [here](https://
 ##### 🔧 **Verify Required Android Components:**
 
 1. Open **Android Studio**.
-2. Navigate to **Tools** > **SDK Manager** (or from the **Welcome Screen**, click the **More Options** icon and select **SDK Manager**).
+2. Navigate to **Tools** > **SDK Manager** (or from the **Welcome Screen**, click the **More Actions** icon and select **SDK Manager**).
 3. In the **SDK Platforms** tab, ensure the following are installed:
    - **Android SDK Command-line Tools**
    - **Android SDK Build-Tools**
@@ -45,8 +45,8 @@ Search for **Xcode** in the store and download it.
 #### 4. 📦 **Download and Install the Flutter SDK**  
 Get the latest Flutter SDK:
 
-- For Intel-based Macs: [Download Flutter SDK](https://docs.flutter.dev/get-started/install/macos#install-flutter-sdk)
-- For Apple Silicon Macs: [Download Flutter SDK](https://docs.flutter.dev/get-started/install/macos#install-flutter-sdk)
+- For Intel-based Macs: [Download Flutter SDK](https://storage.googleapis.com/flutter_infra_release/releases/stable/macos/flutter_macos_3.24.3-stable.zip)
+- For Apple Silicon Macs: [Download Flutter SDK](https://storage.googleapis.com/flutter_infra_release/releases/stable/macos/flutter_macos_arm64_3.24.3-stable.zip)
 
 ---
 
