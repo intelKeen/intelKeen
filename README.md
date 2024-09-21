@@ -62,6 +62,8 @@ So that Flutter commands are accessible globally on your Mac, add Flutter to you
    ```bash
    export PATH="$HOME/development/flutter/bin:$PATH"
    ```
+  > **Note:** /development/ is the directory name of your Flutter SDK.
+
 6. Save and close the file.
 
 ---
