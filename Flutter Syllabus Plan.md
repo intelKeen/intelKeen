@@ -1,6 +1,6 @@
 # From Zero to Hero: Master Flutter with Engaging Projects!
 
-## Welcome to the Flutter Development intelKeen Series!
+## Welcome to the Flutter Development Series of intelKeen Skills!
 This plan is designed to help viewers learn Flutter from scratch to advanced concepts through a series of structured videos. Each section includes detailed breakdowns, hands-on mini-projects, and real-world applications to ensure a practical learning experience.
 
 ---
@@ -30,6 +30,7 @@ This plan is designed to help viewers learn Flutter from scratch to advanced con
 ## 1. Introduction to Cross-Platform Development with Flutter and Dart
 - **Overview of Cross-Platform Development**  
   Understand the fundamentals of cross-platform development and its advantages, including cost-effectiveness and code reusability. Discuss real-world applications and successful case studies of cross-platform apps.
+[Watch on YouTube](https://youtu.be/fN_la3CP1Hk?si=MeAOkWkjHAiHNrZo)
 
 - **Introduction to Flutter**  
   Explore Flutter's architecture and high-performance rendering with the Skia graphics engine. Compare Flutter with frameworks like React Native and Xamarin.
