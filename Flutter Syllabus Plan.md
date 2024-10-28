@@ -30,7 +30,8 @@ This plan is designed to help viewers learn Flutter from scratch to advanced con
 ## 1. Introduction to Cross-Platform Development with Flutter and Dart
 - **Overview of Cross-Platform Development**  
   Understand the fundamentals of cross-platform development and its advantages, including cost-effectiveness and code reusability. Discuss real-world applications and successful case studies of cross-platform apps.
-[![Watch on YouTube](https://img.youtube.com/vi/fN_la3CP1Hk&t=4s/maxresdefault.jpg)](https://www.youtube.com/watch?v=fN_la3CP1Hk&t=4s)
+
+  [![Watch on YouTube](https://img.youtube.com/vi/fN_la3CP1Hk/hqdefault.jpg)](https://www.youtube.com/watch?v=fN_la3CP1Hk&t=4s)
 
 - **Introduction to Flutter**  
   Explore Flutter's architecture and high-performance rendering with the Skia graphics engine. Compare Flutter with frameworks like React Native and Xamarin.
