@@ -36,6 +36,8 @@ This plan is designed to help viewers learn Flutter from scratch to advanced con
 - **Introduction to Flutter**  
   Explore Flutter's architecture and high-performance rendering with the Skia graphics engine. Compare Flutter with frameworks like React Native and Xamarin.
 
+  [![Watch on YouTube](https://img.youtube.com/vi/GtrBlkLN5-M/hqdefault.jpg)](https://www.youtube.com/watch?v=GtrBlkLN5-M)
+
 - **Introduction to Dart**  
   Familiarize yourself with Dart, focusing on its key features like null safety and asynchronous programming. Engage in hands-on coding exercises to solidify understanding of Dart syntax and functions.
 
