@@ -55,6 +55,8 @@ This plan is designed to help viewers learn Flutter from scratch to advanced con
 - **Emulator and Physical Device Setup**  
   Learn how to configure Android emulators and iOS simulators, and connect your apps to physical devices, including necessary permissions.
 
+  [![Watch on YouTube](https://img.youtube.com/vi/g9OCxst-CcM/hqdefault.jpg)](https://www.youtube.com/watch?v=g9OCxst-CcM&t=422s)
+
 ---
 
 ## 3. First Flutter App - "Quote of the Day"
