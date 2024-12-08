@@ -41,6 +41,8 @@ This plan is designed to help viewers learn Flutter from scratch to advanced con
 - **Introduction to Dart**  
   Familiarize yourself with Dart, focusing on its key features like null safety and asynchronous programming. Engage in hands-on coding exercises to solidify understanding of Dart syntax and functions.
 
+  [![Watch on YouTube](https://img.youtube.com/vi/FjPCBKZBHPI/hqdefault.jpg)](https://www.youtube.com/watch?v=FjPCBKZBHPI)
+
 ---
 
 ## 2. Setup and Installation
